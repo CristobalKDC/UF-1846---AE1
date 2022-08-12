@@ -5,6 +5,7 @@ const Listado = () => {
 				<li>Persa</li>
 				<li>British</li>
 				<li>Siamés</li>
+				<li>Corea</li>
 			</ul>
 		</div>
 	);
