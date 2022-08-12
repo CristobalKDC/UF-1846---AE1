@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ElementoLista = () => {
-	return <div>ElementoLista</div>;
+	return <div>Elemento Lista</div>;
 };
 
 export default ElementoListas;
